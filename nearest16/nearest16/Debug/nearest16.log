@@ -1,0 +1,3 @@
+﻿  nearest16.cpp
+d:\cpp\offer\nearest16\nearest16\nearest16.cpp(17): warning C4101: “result”: 未引用的局部变量
+  nearest16.vcxproj -> D:\CPP\offer\nearest16\Debug\nearest16.exe

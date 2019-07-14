@@ -1,0 +1,9 @@
+﻿  fournumbersum18.cpp
+d:\cpp\offer\fournumbersum18\fournumbersum18\fournumbersum18.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\fournumbersum18\fournumbersum18\fournumbersum18.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\fournumbersum18\fournumbersum18\fournumbersum18.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\fournumbersum18\fournumbersum18\fournumbersum18.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\fournumbersum18\fournumbersum18\fournumbersum18.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\fournumbersum18\fournumbersum18\fournumbersum18.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\fournumbersum18\fournumbersum18\fournumbersum18.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+  fournumbersum18.vcxproj -> D:\CPP\offer\fournumbersum18\Debug\fournumbersum18.exe

@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  hebinglianbiao.cpp
+d:\cpp\offer\hebinglianbiao\hebinglianbiao\hebinglianbiao.cpp(12): warning C4018: “>=”: 有符号/无符号不匹配
+d:\cpp\offer\hebinglianbiao\hebinglianbiao\hebinglianbiao.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\hebinglianbiao\hebinglianbiao\hebinglianbiao.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  hebinglianbiao.vcxproj -> D:\CPP\offer\hebinglianbiao\Debug\hebinglianbiao.exe
+  hebinglianbiao.vcxproj -> D:\CPP\offer\hebinglianbiao\Debug\hebinglianbiao.pdb (Full PDB)

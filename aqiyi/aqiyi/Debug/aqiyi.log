@@ -1,0 +1,21 @@
+﻿  aqiyi.cpp
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(42): error C2065: “s”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(42): error C2228: “.substr”的左边必须有类/结构/联合
+  d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(42): note: 类型是“unknown-type”
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(42): error C2065: “start”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(43): error C2065: “s”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(43): error C2228: “.substr”的左边必须有类/结构/联合
+  d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(43): note: 类型是“unknown-type”
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(43): error C2065: “start”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(43): error C2065: “i”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(44): error C2065: “s”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(44): error C2228: “.substr”的左边必须有类/结构/联合
+  d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(44): note: 类型是“unknown-type”
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(44): error C2065: “i”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(46): error C2065: “i”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(48): error C2065: “i”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(52): error C2065: “i”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(53): error C2065: “i”: 未声明的标识符
+d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(57): error C2440: “return”: 无法从“std::string”转换为“int”
+  d:\cpp\offer\aqiyi\aqiyi\aqiyi.cpp(57): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符

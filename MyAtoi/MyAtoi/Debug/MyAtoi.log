@@ -1,0 +1,6 @@
+﻿  MyAtoi.cpp
+d:\cpp\offer\myatoi\myatoi\myatoi.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\myatoi\myatoi\myatoi.cpp(33): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\cpp\offer\myatoi\myatoi\myatoi.cpp(39): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  MyAtoi.vcxproj -> D:\CPP\offer\MyAtoi\Debug\MyAtoi.exe
+  MyAtoi.vcxproj -> D:\CPP\offer\MyAtoi\Debug\MyAtoi.pdb (Full PDB)

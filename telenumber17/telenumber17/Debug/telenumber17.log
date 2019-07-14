@@ -1,0 +1,5 @@
+﻿  telenumber17.cpp
+d:\cpp\offer\telenumber17\telenumber17\telenumber17.cpp(25): warning C4018: “>”: 有符号/无符号不匹配
+d:\cpp\offer\telenumber17\telenumber17\telenumber17.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\telenumber17\telenumber17\telenumber17.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+  telenumber17.vcxproj -> D:\CPP\offer\telenumber17\Debug\telenumber17.exe

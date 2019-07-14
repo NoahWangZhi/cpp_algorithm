@@ -1,0 +1,9 @@
+﻿  soccer.cpp
+d:\cpp\offer\soccer\soccer\soccer.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\soccer\soccer\soccer.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\soccer\soccer\soccer.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\soccer\soccer\soccer.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\soccer\soccer\soccer.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\offer\soccer\soccer\soccer.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+  soccer.vcxproj -> D:\CPP\offer\soccer\Debug\soccer.exe
+  soccer.vcxproj -> D:\CPP\offer\soccer\Debug\soccer.pdb (Full PDB)

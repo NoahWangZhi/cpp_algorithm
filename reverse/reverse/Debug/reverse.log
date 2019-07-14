@@ -1,0 +1,4 @@
+﻿  reverse.cpp
+d:\cpp\offer\reverse\reverse\reverse.cpp(35): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  reverse.vcxproj -> D:\CPP\offer\reverse\Debug\reverse.exe
+  reverse.vcxproj -> D:\CPP\offer\reverse\Debug\reverse.pdb (Full PDB)

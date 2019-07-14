@@ -1,0 +1,5 @@
+﻿  home_numbers.cpp
+d:\cpp\offer\home_numbers\home_numbers\home_numbers.cpp(8): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+d:\cpp\offer\home_numbers\home_numbers\home_numbers.cpp(11): warning C4101: “dp”: 未引用的局部变量
+  home_numbers.vcxproj -> D:\CPP\offer\home_numbers\Debug\home_numbers.exe
+  home_numbers.vcxproj -> D:\CPP\offer\home_numbers\Debug\home_numbers.pdb (Full PDB)

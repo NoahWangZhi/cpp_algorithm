@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  90subsetsWithDup.cpp
+d:\cpp\offer\90subsetswithdup\90subsetswithdup\90subsetswithdup.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  90subsetsWithDup.vcxproj -> D:\CPP\offer\90subsetsWithDup\Debug\90subsetsWithDup.exe
